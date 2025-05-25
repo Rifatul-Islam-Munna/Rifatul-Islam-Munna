@@ -1,4 +1,4 @@
-# Hi there, I'm RIFatul Islam! 👋
+# Hi there, I'm Rifatul Islam! 👋
 
 ## I'm a Full Stack Developer – Web & Mobile Apps
 
