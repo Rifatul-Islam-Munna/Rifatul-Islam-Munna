@@ -10,6 +10,8 @@ Full-Stack Developer with 2+ years of experience delivering enterprise-grade app
 # 📊 GitHub Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Rifatul-Islam-Munna&theme=transparent&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats) <br/>
 
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Rifatul-Islam-Munna&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rifat's Most Used Languages" /> <br/>
+
 
 
 
